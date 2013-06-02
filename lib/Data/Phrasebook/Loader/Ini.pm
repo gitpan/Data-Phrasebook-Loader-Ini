@@ -5,7 +5,7 @@ use Carp qw( croak );
 use base qw( Data::Phrasebook::Loader::Base Data::Phrasebook::Debug );
 use Config::IniFiles;
 
-our $VERSION = '0.12';
+our $VERSION = '0.13';
 
 =head1 NAME
 
@@ -196,9 +196,9 @@ be forthcoming, please feel free to (politely) remind me.
 
 =head1 COPYRIGHT AND LICENSE
 
-  Copyright (C) 2004-2012 Barbie for Miss Barbell Productions.
+  Copyright (C) 2004-2013 Barbie for Miss Barbell Productions.
 
-  This module is free software; you can redistribute it and/or
+  This distribution is free software; you can redistribute it and/or
   modify it under the Artistic License 2.0.
 
 =cut
